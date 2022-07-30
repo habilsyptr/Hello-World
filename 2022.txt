@@ -6,3 +6,4 @@
 - Learn fundamental programming
 - Learn Data Analyst, Data Scientist and Data engineer
 - Learn Business Fundamental
+- Collaboration
